@@ -1,0 +1,37 @@
+_repo: Random-Reminiscences-of-Men-and-Events_17090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockefeller, John D. (John Davison)
+    alias: Rockefeller, John Davison
+    birthdate: 1839
+    deathdate: 1937
+    gutenberg_agent_id: '7133'
+    url: http://www.gutenberg.org/2009/agents/7133
+    wikipedia: http://en.wikipedia.org/wiki/John_D._Rockefeller
+description: ''
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17090'
+  lccn: 09009451
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Standard Oil Company'
+- !lcsh 'Rockefeller, John D. (John Davison), 1839-1937'
+- !lcsh 'Charity'
+- !lcsh 'Capitalists and financiers -- United States'
+- !lcc 'HD'
+tableOfContents: Some old friends -- The difficult art of getting -- The Standard
+  Oil Company -- Some experiences in the oil business -- Other business experiences
+  and business principles -- The difficult art of giving -- The benevolent trust;
+  The value of the coöperative principle in giving.
+title: Random Reminiscences of Men and Events
+url: http://www.gutenberg.org/ebooks/17090
